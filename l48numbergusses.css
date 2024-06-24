@@ -1,0 +1,23 @@
+body{
+    font-family: sans-serif;
+
+    background-color: #f4f4f4;
+
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    overflow: hidden;
+}
+
+.form-control,.btn {
+    padding: 10px;
+    border-style: solid;
+}
+
+.gameform span{
+    display: block;
+
+    margin-top: 5px;
+}
